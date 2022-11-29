@@ -940,69 +940,69 @@ section {
 /*--------------------------------------------------------------
 # Testimonials
 --------------------------------------------------------------*/
-.classes .section-header {
+.courses .section-header {
   margin-bottom: 40px;
 }
 
-.classes .classes-carousel,
-.classes .classes-slider {
+.courses .courses-carousel,
+.courses .courses-slider {
   overflow: hidden;
 }
 
-.classes .class-item {
+.courses .course-item {
   text-align: center;
 }
 
-.classes .class-item .class-img {
+.courses .course-item .course-img {
   width: 120px;
   border-radius: 50%;
   border: 4px solid #fff;
   margin: 0 auto;
 }
 
-.classes .class-item h3 {
+.courses .course-item h3 {
   font-size: 20px;
   font-weight: bold;
   margin: 10px 0 5px 0;
   color: #111;
 }
 
-.classes .class-item h4 {
+.courses .course-item h4 {
   font-size: 14px;
   color: #999;
   margin: 0 0 15px 0;
 }
 
-.classes .class-item .quote-icon-left,
-.classes .class-item .quote-icon-right {
+.courses .course-item .quote-icon-left,
+.courses .course-item .quote-icon-right {
   color: #D4B86B;
   font-size: 26px;
 }
 
-.classes .class-item .quote-icon-left {
+.courses .course-item .quote-icon-left {
   display: inline-block;
   left: -5px;
   position: relative;
 }
 
-.classes .class-item .quote-icon-right {
+.courses .course-item .quote-icon-right {
   display: inline-block;
   right: -5px;
   position: relative;
   top: 10px;
 }
 
-.classes .class-item p {
+.courses .course-item p {
   font-style: italic;
   margin: 0 auto 15px auto;
 }
 
-.classes .swiper-pagination {
+.courses .swiper-pagination {
   margin-top: 20px;
   position: relative;
 }
 
-.classes .swiper-pagination .swiper-pagination-bullet {
+.courses .swiper-pagination .swiper-pagination-bullet {
   width: 12px;
   height: 12px;
   background-color: #fff;
@@ -1010,12 +1010,12 @@ section {
   border: 1px solid #D4B86B;
 }
 
-.classes .swiper-pagination .swiper-pagination-bullet-active {
+.courses .swiper-pagination .swiper-pagination-bullet-active {
   background-color: #D4B86B;
 }
 
 @media (min-width: 992px) {
-  .classes .class-item p {
+  .courses .course-item p {
     width: 80%;
   }
 }
