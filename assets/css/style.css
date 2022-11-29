@@ -56,7 +56,7 @@ h6 {
 }
 
 .back-to-top:hover {
-  background: #0678e3;
+  background: #ecce83;
   color: #fff;
 }
 
@@ -321,7 +321,7 @@ h6 {
 }
 
 #hero p span {
-  color: #D4B86B;
+  color: #C0A660;
   letter-spacing: 1px;
 }
 
@@ -1145,7 +1145,7 @@ section {
 }
 
 .contact .php-email-form button[type=submit]:hover {
-  background: #0678e3;
+  background: #ecce83;
 }
 
 @-webkit-keyframes animate-loading {
@@ -1215,7 +1215,7 @@ section {
 }
 
 #footer .social-links a:hover {
-  background: #0678e3;
+  background: #ecce83;
   color: #fff;
   text-decoration: none;
 }
