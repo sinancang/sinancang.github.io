@@ -1,4 +1,4 @@
-Thanks for downloading this template!
+Personal portfolio for Sinan Can Gulan, made from a Bootstrap template, info below: 
 
 Template Name: MyResume
 Template URL: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/
