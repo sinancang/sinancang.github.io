@@ -415,6 +415,16 @@ section {
   font-weight: 700;
   font-size: 26px;
   color: #728394;
+  margin-bottom: 50px;
+}
+
+.about .emphasize {
+  color: #D4B86B;
+  font-weight: bold;
+}
+
+.about .row {
+  margin-top: 50px;
 }
 
 .about .content ul {
@@ -937,8 +947,9 @@ section {
   fill: #11dbcf;
 }
 
+
 /*--------------------------------------------------------------
-# Testimonials
+# Courses
 --------------------------------------------------------------*/
 .courses .section-header {
   margin-bottom: 40px;
@@ -947,17 +958,24 @@ section {
 .courses .courses-carousel,
 .courses .courses-slider {
   overflow: hidden;
+  height: 475px;
 }
 
 .courses .course-item {
   text-align: center;
 }
 
+.courses .takeaway {
+  color: #D4B86B;
+  font-weight: bold;
+}
+
 .courses .course-item .course-img {
-  width: 120px;
-  border-radius: 75%;
+  width: 400px;
+  height: 240px;
   border: 4px solid #fff;
   margin: 0 auto;
+  margin-bottom: 25px;
 }
 
 .courses .course-item h3 {
@@ -975,10 +993,22 @@ section {
 
 .courses .course-item .quote-icon-left,
 .courses .course-item .quote-icon-right {
-  color: #D4B86B;
+  color: #90c8fc;
   font-size: 26px;
 }
 
+.courses .course-item .quote-icon-left {
+  display: inline-block;
+  left: -5px;
+  position: relative;
+}
+
+.courses .course-item .quote-icon-right {
+  display: inline-block;
+  right: -5px;
+  position: relative;
+  top: 10px;
+}
 
 .courses .course-item p {
   margin: 0 auto 15px auto;
